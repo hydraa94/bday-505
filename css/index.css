@@ -58,7 +58,8 @@
   left: 0;
   color: white;
   font-family: "Courier New", Courier, monospace;
-  margin: 50px;
+  margin-left: 45px;
+  margin-right: 45px;
 
   display: flex;
   flex-wrap: wrap;
